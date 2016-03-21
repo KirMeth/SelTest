@@ -1,1 +1,5 @@
+com\twosigma\beakerlab\AbstractTest.class
+com\twosigma\beakerlab\common\Browser.class
 com\twosigma\beakerlab\tests\MainTest.class
+com\twosigma\beakerlab\common\Environment.class
+com\twosigma\beakerlab\common\BrowserFactory.class

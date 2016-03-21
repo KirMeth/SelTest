@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1458161023000" stop="1458161025924" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite1 : Regression1</name>
+    <title>Suite1 : Regression1</title>
+    <test-cases>
+        <test-case start="1458161023029" stop="1458161025904" status="passed">
+            <name>Test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Home"/>
+                <label name="thread" value="3892@Home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1458161023029" stop="1458161025904" status="passed">
+            <name>Test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Home"/>
+                <label name="thread" value="3892@Home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1458161025906" stop="1458161025907" status="passed">
+            <name>Test1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Home"/>
+                <label name="thread" value="3892@Home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1458161025906" stop="1458161025907" status="passed">
+            <name>Test1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Home"/>
+                <label name="thread" value="3892@Home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/beakerlab.iml" filepath="$PROJECT_DIR$/beakerlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beaker.iml" filepath="$PROJECT_DIR$/beaker.iml" />
     </modules>
   </component>
 </project>

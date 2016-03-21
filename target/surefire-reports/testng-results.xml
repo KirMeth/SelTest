@@ -2,19 +2,27 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="9799" started-at="2016-03-12T00:18:22Z" finished-at="2016-03-12T00:18:32Z">
+  <suite name="Suite1" duration-ms="2921" started-at="2016-03-16T20:43:42Z" finished-at="2016-03-16T20:43:45Z">
     <groups>
     </groups>
-    <test name="Regression1" duration-ms="9799" started-at="2016-03-12T00:18:22Z" finished-at="2016-03-12T00:18:32Z">
+    <test name="Regression1" duration-ms="2921" started-at="2016-03-16T20:43:42Z" finished-at="2016-03-16T20:43:45Z">
       <class name="com.twosigma.beakerlab.tests.MainTest">
-        <test-method status="PASS" signature="Test()[pri:0, instance:com.twosigma.beakerlab.tests.MainTest@2c6a3f77]" name="Test" duration-ms="9680" started-at="2016-03-12T03:18:22Z" finished-at="2016-03-12T03:18:32Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.twosigma.beakerlab.tests.MainTest@161c6dc]" name="setUp" is-config="true" duration-ms="2475" started-at="2016-03-16T22:43:40Z" finished-at="2016-03-16T22:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.twosigma.beakerlab.tests.MainTest@161c6dc]" name="Test" duration-ms="2892" started-at="2016-03-16T22:43:43Z" finished-at="2016-03-16T22:43:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method status="PASS" signature="Test1()[pri:0, instance:com.twosigma.beakerlab.tests.MainTest@2c6a3f77]" name="Test1" duration-ms="1" started-at="2016-03-12T03:18:32Z" finished-at="2016-03-12T03:18:32Z">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.twosigma.beakerlab.tests.MainTest@161c6dc]" name="Test1" duration-ms="2" started-at="2016-03-16T22:43:45Z" finished-at="2016-03-16T22:43:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.twosigma.beakerlab.tests.MainTest@161c6dc]" name="tearDown" is-config="true" duration-ms="1409" started-at="2016-03-16T22:43:46Z" finished-at="2016-03-16T22:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- com.twosigma.beakerlab.tests.MainTest -->
     </test> <!-- Regression1 -->
   </suite> <!-- Suite1 -->
